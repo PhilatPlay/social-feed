@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+}
+
+h1 {
+    text-align: center;
+}
+
+#feed {
+    max-width: 500px;
+    margin: auto;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px #cccccc;
+}
